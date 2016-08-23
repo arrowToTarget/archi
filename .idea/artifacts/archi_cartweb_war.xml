@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="archi-cartweb:war">
+    <output-path>$PROJECT_DIR$/archi-cartweb/target</output-path>
+    <root id="archive" name="archi-cartweb.war">
+      <element id="artifact" artifact-name="archi-cartweb:war exploded" />
+    </root>
+  </artifact>
+</component>

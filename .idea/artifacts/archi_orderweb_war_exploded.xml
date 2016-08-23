@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="archi-orderweb:war exploded">
+    <output-path>$PROJECT_DIR$/archi-orderweb/target/archi-orderweb</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="archi-orderweb" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="archi-common-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="archi-common" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/archi-orderweb/target/archi-orderweb/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="archi-orderweb/web/Web" />
+    </root>
+  </artifact>
+</component>

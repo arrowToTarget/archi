@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/archi-cartweb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/archi-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/archi-customerweb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/archi-goods" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/archi-goodsweb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/archi-orderweb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/archi-stockweb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/archi-web" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

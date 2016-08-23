@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/archi.iml" filepath="$PROJECT_DIR$/archi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archi-cartweb/archi-cartweb.iml" filepath="$PROJECT_DIR$/archi-cartweb/archi-cartweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archi-common/archi-common.iml" filepath="$PROJECT_DIR$/archi-common/archi-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archi-customerweb/archi-customerweb.iml" filepath="$PROJECT_DIR$/archi-customerweb/archi-customerweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archi-goods/archi-goods.iml" filepath="$PROJECT_DIR$/archi-goods/archi-goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archi-goodsweb/archi-goodsweb.iml" filepath="$PROJECT_DIR$/archi-goodsweb/archi-goodsweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archi-orderweb/archi-orderweb.iml" filepath="$PROJECT_DIR$/archi-orderweb/archi-orderweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archi-stockweb/archi-stockweb.iml" filepath="$PROJECT_DIR$/archi-stockweb/archi-stockweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archi-web/archi-web.iml" filepath="$PROJECT_DIR$/archi-web/archi-web.iml" />
+    </modules>
+  </component>
+</project>

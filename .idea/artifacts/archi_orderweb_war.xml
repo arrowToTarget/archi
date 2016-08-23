@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="archi-orderweb:war">
+    <output-path>$PROJECT_DIR$/archi-orderweb/target</output-path>
+    <root id="archive" name="archi-orderweb.war">
+      <element id="artifact" artifact-name="archi-orderweb:war exploded" />
+    </root>
+  </artifact>
+</component>

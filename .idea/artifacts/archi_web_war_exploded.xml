@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="archi-web:war exploded">
+    <output-path>$PROJECT_DIR$/archi-web/target/archi-web</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="archi-web" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/archi-web/target/archi-web/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="archi-web/web/Web" />
+      <element id="artifact" artifact-name="archi-customerweb:war exploded" />
+      <element id="artifact" artifact-name="archi-cartweb:war exploded" />
+      <element id="artifact" artifact-name="archi-goodsweb:war exploded" />
+      <element id="artifact" artifact-name="archi-orderweb:war exploded" />
+      <element id="artifact" artifact-name="archi-stockweb:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="archi-stockweb:war">
+    <output-path>$PROJECT_DIR$/archi-stockweb/target</output-path>
+    <root id="archive" name="archi-stockweb.war">
+      <element id="artifact" artifact-name="archi-stockweb:war exploded" />
+    </root>
+  </artifact>
+</component>
